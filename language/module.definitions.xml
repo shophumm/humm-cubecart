@@ -11,10 +11,10 @@
  * License:  GPL-3.0 http://opensource.org/licenses/GPL-3.0
 -->
 <definitions version="1.0">
- <group name="humm">
-  <string name="mid"><![CDATA[Merchant ID]]></string>
-  <string name="api_key"><![CDATA[API Key]]></string>
-  <string name="testURL"><![CDATA[Test Gateway URL]]></string>
-  <string name="liveURL"><![CDATA[Gateway URL]]></string>
- </group>
+    <group name="humm">
+        <string name="mid"><![CDATA[Merchant ID]]></string>
+        <string name="api_key"><![CDATA[API Key]]></string>
+        <string name="testURL"><![CDATA[Test Gateway URL]]></string>
+        <string name="liveURL"><![CDATA[Gateway URL]]></string>
+    </group>
 </definitions>
