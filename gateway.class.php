@@ -74,6 +74,7 @@ class Gateway {
             'x_customer_shipping_state'    => $this->_basket['delivery_address']['state'],
             'x_customer_shipping_zip'      => $this->_basket['delivery_address']['postcode'],
             'x_invoice'                    => $this->_basket['cart_order_id'],
+            'version_info'                 => 'Humm_1.0.0_for_CubeCart',
             'x_description'                => 'Payment for order ' . $this->_basket['cart_order_id']
         );
 
